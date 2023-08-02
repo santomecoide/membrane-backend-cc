@@ -1,7 +1,7 @@
 {
-  "name": "membranepairsapi",
+  "name": "criptomarketstatusapi",
   "version": "1.0.0",
-  "description": "",
+  "description": "api",
   "main": "dist/server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
